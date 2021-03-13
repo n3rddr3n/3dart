@@ -1,4 +1,6 @@
-# Nerd Trade (3dart.dr3n) Documents
+Trade Nerd >-(e23)-> trad3.n3rd >-(backwards)-> 3dart.dr3n 
+
+Documents
 
 ## Monitors
 - [TradingView](https://www.tradingview.com/)
